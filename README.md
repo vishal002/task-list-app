@@ -13,12 +13,13 @@ Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app 
 Run `npm run build` to build the project. The build artifacts will be stored in the `build/` directory.
 
 ## Api
-Store data and fetch data [Firebase api](https://react-http-9b710-default-rtdb.firebaseio.com/) 
+Store data and fetch data [Firebase api](https://tasks-ceff0-default-rtdb.firebaseio.com/) 
 
 ## Hooks
-useState, useEffect, useCallback, useRef
+useState, useEffect, useCallback
 
 ## Custom Hooks
+useHttp
 
 ## App Snapsorts
-![Movies Home Page and Add movies](https://github.com/vishal002/movies-app/blob/master/public/home_page.jpg?raw=true)
+![Home Page](https://github.com/vishal002/task-list-app/blob/master/img/home.jpg?raw=true)
